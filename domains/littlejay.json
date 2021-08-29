@@ -1,0 +1,10 @@
+{
+  "description": "A place to showcase all my projects.",
+  "owner": {
+    "username": "Jaden129",
+    "email": "jkding129@gmail.com"
+  },
+  "record": {
+    "CNAME": "https://jaden129.github.io/"
+  }
+}
